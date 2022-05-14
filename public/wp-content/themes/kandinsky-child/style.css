@@ -1,0 +1,38 @@
+/*
+Theme Name: Kandinsky Child Theme
+Theme URI: https://github.com/Teplitsa/Kandinsky-Child-Theme
+Author: Teplitsa
+Author URI: https://te-st.ru/
+Description: Child theme for Kandinsky
+Template: kandinsky
+Version: 1.0.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: knd-child
+*/
+
+/* ===== WooCommerce integration ===== */
+
+.wc-block-grid__products {
+    padding-left: 0px !important;
+}
+
+
+.wc-block-dropdown-selector__input-wrapper::after {
+  content: "∟";
+	transform: rotate(-45deg);
+	margin-top: -5px;
+	margin-right: 5px;
+}
+
+.wc-block-attribute-filter *:hover {
+	cursor: pointer;
+}
+
+.wc-block-dropdown-selector__list.wc-block-components-dropdown-selector__list {
+	margin: 0;
+	padding: 5px 1px 5px 10px;
+	z-index: 100;
+}
+
+/* ===== /WooCommerce integration ===== */

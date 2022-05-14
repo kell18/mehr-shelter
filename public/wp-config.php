@@ -40,7 +40,7 @@ define( 'DB_COLLATE', '' );
 
 /** ===== Custom ======  */
 /** Custom INCREASE PHP MEMORY TO 256 MB */
-// define( 'WP_MEMORY_LIMIT', '256M' );
+define( 'WP_MEMORY_LIMIT', '256M' );
 
 
 /**#@+
