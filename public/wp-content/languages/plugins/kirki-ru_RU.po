@@ -1,0 +1,666 @@
+# Translation of Plugins - Kirki Customizer Framework - Stable (latest release) in Russian
+# This file is distributed under the same license as the Plugins - Kirki Customizer Framework - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2022-05-13 16:11:02+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
+"X-Generator: GlotPress/4.0.0-alpha.1\n"
+"Language: ru\n"
+"Project-Id-Version: Plugins - Kirki Customizer Framework - Stable (latest release)\n"
+
+#. translators: %s is the limit of selection number.
+#: packages/kirki-framework/control-react-select/src/Control/ReactSelect.php:169
+msgid "You can only select %s items"
+msgstr "Вы можете выбрать только %s элементов"
+
+#: packages/kirki-framework/field-typography/src/Field/Typography.php:850
+msgid "Defaults"
+msgstr "По умолчанию"
+
+#: packages/kirki-framework/field-typography/src/Field/Typography.php:387
+msgid "Wavy"
+msgstr "Волнистый"
+
+#: packages/kirki-framework/field-typography/src/Field/Typography.php:386
+msgid "Solid"
+msgstr "Сплошной"
+
+#: packages/kirki-framework/field-typography/src/Field/Typography.php:328
+msgid "Font Color"
+msgstr "Цвет текста"
+
+#: packages/kirki-framework/field-typography/src/Field/Typography.php:301
+msgid "Font Variant"
+msgstr "Вариант шрифта"
+
+#: packages/kirki-framework/field-typography/src/Field/Typography.php:199
+msgid "900 Italic"
+msgstr "Курсив 900"
+
+#: packages/kirki-framework/field-typography/src/Field/Typography.php:195
+msgid "900"
+msgstr "900"
+
+#: packages/kirki-framework/field-typography/src/Field/Typography.php:191
+msgid "800 Italic"
+msgstr "Курсив 800"
+
+#: packages/kirki-framework/field-typography/src/Field/Typography.php:187
+msgid "800"
+msgstr "800"
+
+#: packages/kirki-framework/field-typography/src/Field/Typography.php:175
+msgid "600 Italic"
+msgstr "Курсив 600"
+
+#: packages/kirki-framework/field-typography/src/Field/Typography.php:171
+msgid "600"
+msgstr "600"
+
+#: packages/kirki-framework/field-typography/src/Field/Typography.php:167
+msgid "500 Italic"
+msgstr "Курсив 500"
+
+#: packages/kirki-framework/field-typography/src/Field/Typography.php:163
+msgid "500"
+msgstr "500"
+
+#: packages/kirki-framework/field-typography/src/Field/Typography.php:159
+msgid "300 Italic"
+msgstr "Курсив 300"
+
+#: packages/kirki-framework/field-typography/src/Field/Typography.php:155
+msgid "300"
+msgstr "300"
+
+#: packages/kirki-framework/field-typography/src/Field/Typography.php:151
+msgid "200 Italic"
+msgstr "Курсив 200"
+
+#: packages/kirki-framework/field-typography/src/Field/Typography.php:147
+msgid "200"
+msgstr "200"
+
+#: packages/kirki-framework/field-typography/src/Field/Typography.php:143
+msgid "100 Italic"
+msgstr "Курсив 100"
+
+#: packages/kirki-framework/field-typography/src/Field/Typography.php:139
+msgid "100"
+msgstr "100"
+
+#: packages/kirki-framework/field-typography/src/Field/Typography.php:124
+#: packages/kirki-framework/field-typography/src/Field/Typography.php:183
+msgid "700 Italic"
+msgstr "Курсив 700"
+
+#: packages/kirki-framework/field-typography/src/Field/Typography.php:120
+#: packages/kirki-framework/field-typography/src/Field/Typography.php:179
+msgid "700"
+msgstr "700"
+
+#: packages/kirki-framework/field-typography/src/Field/Typography.php:116
+#: packages/kirki-framework/field-typography/src/Field/Typography.php:135
+msgid "Italic"
+msgstr "Курсив"
+
+#: packages/kirki-framework/field-typography/src/Field/Typography.php:112
+#: packages/kirki-framework/field-typography/src/Field/Typography.php:131
+msgid "Regular"
+msgstr "Обычный"
+
+#: packages/kirki-framework/control-react-select/src/Control/ReactSelect.php:162
+msgid "Select..."
+msgstr "Выбрать..."
+
+#: packages/kirki-framework/control-dashicons/src/Control/Dashicons.php:116
+msgid "Miscelaneous"
+msgstr "Разное"
+
+#: packages/kirki-framework/control-dashicons/src/Control/Dashicons.php:115
+msgid "Notifications"
+msgstr "Уведомления"
+
+#: packages/kirki-framework/control-dashicons/src/Control/Dashicons.php:114
+msgid "Widgets"
+msgstr "Виджеты"
+
+#: packages/kirki-framework/control-dashicons/src/Control/Dashicons.php:113
+msgid "Taxonomies"
+msgstr "Таксономии"
+
+#: packages/kirki-framework/control-dashicons/src/Control/Dashicons.php:112
+msgid "Products"
+msgstr "Товары"
+
+#: packages/kirki-framework/control-dashicons/src/Control/Dashicons.php:110
+msgid "Social"
+msgstr "Социальные сети"
+
+#: packages/kirki-framework/control-dashicons/src/Control/Dashicons.php:109
+msgid "Sorting"
+msgstr "Сортировка"
+
+#: packages/kirki-framework/control-dashicons/src/Control/Dashicons.php:108
+msgid "Posts"
+msgstr "Записи"
+
+#: packages/kirki-framework/control-dashicons/src/Control/Dashicons.php:106
+msgid "Image Editing"
+msgstr "Редактирование изображения"
+
+#: packages/kirki-framework/control-dashicons/src/Control/Dashicons.php:105
+msgid "Media"
+msgstr "Медиафайлы"
+
+#: packages/kirki-framework/control-dashicons/src/Control/Dashicons.php:104
+msgid "Post Formats"
+msgstr "Форматы постов"
+
+#: packages/kirki-framework/control-dashicons/src/Control/Dashicons.php:103
+msgid "Welcome Screen"
+msgstr "Экран приветствия"
+
+#: packages/kirki-framework/control-dashicons/src/Control/Dashicons.php:102
+msgid "Admin Menu"
+msgstr "Меню администратора"
+
+#. Author URI of the plugin
+msgid "https://davidvongries.com/"
+msgstr "https://davidvongries.com/"
+
+#. Author of the plugin
+msgid "David Vongries"
+msgstr "David Vongries"
+
+#: packages/kirki-framework/compatibility/src/Init.php:261
+msgid "Don't show this again"
+msgstr "Не показывать это снова"
+
+#: packages/kirki-framework/compatibility/src/Init.php:260
+msgid "Install Plugin"
+msgstr "Установить плагин"
+
+#: packages/kirki-framework/compatibility/src/Init.php:257
+msgid "Your theme uses a Font Awesome field for icons. To avoid issues with missing icons on your frontend we recommend you install the official Font Awesome plugin."
+msgstr "Ваша тема использует поля Font Awesome для иконок. Чтобы избежать случаи с пропущенными иконками на сайте мы рекомендуем установить официальный плагин Font Awesome."
+
+#. Description of the plugin
+msgid "The Ultimate WordPress Customizer Framework"
+msgstr "Исключительный фреймворк персонализации WordPress"
+
+#. Plugin Name of the plugin
+msgid "Kirki Customizer Framework"
+msgstr "Kirki Customizer Framework"
+
+#: packages/kirki-framework/control-image/src/Field/Image.php:117
+msgid "Choose image"
+msgstr "Выбрать изображение"
+
+#: packages/kirki-framework/control-image/src/Control/Image.php:82
+#: packages/kirki-framework/control-image/src/Field/Image.php:115
+#: packages/kirki-framework/control-image/dist/control.js:1
+#: packages/kirki-framework/control-image/src/control.js:100
+#: packages/kirki-framework/control-image/dist/control.js:100
+msgid "No image selected"
+msgstr "Нет выбранных изображений"
+
+#: packages/kirki-framework/control-image/src/Field/Image.php:112
+msgid "Change image"
+msgstr "Изменить изображение"
+
+#: packages/kirki-framework/control-image/src/Control/Image.php:89
+#: packages/kirki-framework/control-image/src/Field/Image.php:111
+#: packages/kirki-framework/control-image/src/Field/Image.php:116
+msgid "Select image"
+msgstr "Выбрать изображение"
+
+#: packages/kirki-framework/field-typography/src/Field/Typography.php:384
+msgid "Line Through"
+msgstr "Перечёркнутый"
+
+#: packages/kirki-framework/field-typography/src/Field/Typography.php:385
+msgid "Overline"
+msgstr "Черта сверху"
+
+#: packages/kirki-framework/field-typography/src/Field/Typography.php:383
+msgid "Underline"
+msgstr "Подчеркнутый"
+
+#: packages/kirki-framework/field-typography/src/Field/Typography.php:379
+msgid "Text Decoration"
+msgstr "Оформление"
+
+#: packages/kirki-framework/field-typography/src/Field/Typography.php:882
+msgid "Google Fonts"
+msgstr "Шрифты Google"
+
+#: packages/kirki-framework/field-typography/src/Field/Typography.php:877
+msgid "Standard Fonts"
+msgstr "Стандартные шрифты"
+
+#: packages/kirki-framework/compatibility/src/deprecated/functions.php:20
+msgid "%1$s or %2$s"
+msgstr "%1$s или %2$s"
+
+#: packages/kirki-framework/compatibility/src/Kirki.php:191
+msgid "Kirki fields should not be added on customize_register. Please add them directly, or on init."
+msgstr "Kirki-поля не должны добавляться на событие customize_register. Пожалуйста, добавьте их отдельно или на событие init."
+
+#: packages/kirki-framework/compatibility/src/Init.php:206
+msgid "We detected you're using Kirki\\Compatibility\\Init::get_variables(). Please use \\Kirki\\Util\\Util::get_variables() instead."
+msgstr "Мы обнаружили, что вы используете Kirki\\Compatibility\\Init::get_variables(). Пожалуйста, вместо этого используйте \\Kirki\\Util\\Util::get_variables()."
+
+#. translators: The field ID where the error occurs.
+#: packages/kirki-framework/compatibility/src/Field.php:514
+#: packages/kirki-framework/compatibility/src/Field.php:525
+#: packages/kirki-framework/module-css/src/CSS.php:133
+#: packages/kirki-framework/module-css/src/CSS.php:144
+#: packages/kirki-framework/module-postmessage/src/Postmessage.php:69
+msgid "\"output\" invalid format in field %s. The \"output\" argument should be defined as an array of arrays."
+msgstr "\"output\" неверный формат в поле %s. Аргумент \"output\" должен быть определен как массив массивов."
+
+#. translators: %1$s represents the field ID where the error occurs.
+#: packages/kirki-framework/compatibility/src/Field.php:388
+msgid "\"partial_refresh\" invalid entry in field %s"
+msgstr "\"partial_refresh\" неверная запись в поле %s"
+
+#. translators: %1$s represents the field ID where the error occurs. %2$s is
+#. the URL in the documentation site.
+#: packages/kirki-framework/compatibility/src/Field.php:272
+msgid "Config not defined for field %1$s - See %2$s for details on how to properly add fields."
+msgstr "Не определенна конфигулация для поля %1$s - Смотрите подробности о правильном добавлении полей %2$s."
+
+#. translators: %s represents the field ID where the error occurs.
+#: packages/kirki-framework/compatibility/src/Field.php:261
+msgid "Typo found in field %s - setting instead of settings."
+msgstr "Найдена опечатка в поле %s - setting вместо settings."
+
+#: packages/kirki-framework/control-image/src/Control/Image.php:87
+#: packages/kirki-framework/control-image/src/Field/Image.php:113
+#: packages/kirki-framework/field-typography/src/Field/Typography.php:852
+msgid "Default"
+msgstr "По умолчанию"
+
+#. translators: The title.
+#: packages/kirki-framework/module-sections/src/Section_Types/Nested.php:65
+msgid "Customizing &#9656; %s"
+msgstr "Настройка &#9656; %s"
+
+#: packages/kirki-framework/module-sections/src/Section_Types/Nested.php:62
+msgid "Customizing"
+msgstr "Настройка"
+
+#: packages/kirki-framework/control-checkbox/src/Control/Checkbox_Switch.php:80
+msgid "Off"
+msgstr "Выкл."
+
+#: packages/kirki-framework/control-checkbox/src/Control/Checkbox_Switch.php:79
+msgid "On"
+msgstr "Вкл."
+
+#: packages/kirki-framework/field-typography/src/Field/Typography.php:427
+msgid "Margin Bottom"
+msgstr "Отступ снизу"
+
+#: packages/kirki-framework/field-typography/src/Field/Typography.php:422
+msgid "Margin Top"
+msgstr "Отступ сверху"
+
+#. translators: %s represents the label of the row.
+#: packages/kirki-framework/control-repeater/src/Control/Repeater.php:104
+msgid "Add new %s"
+msgstr "Добавить новый %s"
+
+#: packages/kirki-framework/field-dimensions/src/Dimensions.php:72
+msgid "Width"
+msgstr "Ширина"
+
+#: packages/kirki-framework/field-dimensions/src/Dimensions.php:64
+msgid "Word Spacing"
+msgstr "Расстояние между словами"
+
+#: packages/kirki-framework/field-background/src/Background.php:196
+msgid "Auto"
+msgstr "Авто"
+
+#: upgrade-notifications.php:30
+msgid "Important Upgrade Notice:"
+msgstr "Важное уведомление об обновлении:"
+
+#: packages/kirki-framework/control-repeater/src/Control/Repeater.php:475
+#: packages/kirki-framework/control-repeater/src/Control/Repeater.php:480
+msgid "No File Selected"
+msgstr "Файл не выбран"
+
+#: packages/kirki-framework/control-repeater/src/Control/Repeater.php:486
+#: packages/kirki-framework/control-repeater/src/Control/Repeater.php:488
+msgid "Change File"
+msgstr "Изменить файл"
+
+#: packages/kirki-framework/control-repeater/src/Control/Repeater.php:486
+#: packages/kirki-framework/control-repeater/src/Control/Repeater.php:490
+msgid "Add File"
+msgstr "Добавить файл"
+
+#: packages/kirki-framework/control-repeater/src/Control/Repeater.php:95
+msgid "row"
+msgstr "Строка"
+
+#: packages/kirki-framework/control-repeater/src/Control/Repeater.php:139
+msgid "Select a Page"
+msgstr "Выбрать страницу"
+
+#: packages/kirki-framework/field-typography/src/Field/Typography.php:350
+msgid "Initial"
+msgstr "Исходный"
+
+#: packages/kirki-framework/field-typography/src/Field/Typography.php:365
+msgid "Lowercase"
+msgstr "Строчные"
+
+#: packages/kirki-framework/field-typography/src/Field/Typography.php:364
+msgid "Uppercase"
+msgstr "Прописные"
+
+#: packages/kirki-framework/field-typography/src/Field/Typography.php:363
+msgid "Capitalize"
+msgstr "Заглавными"
+
+#: packages/kirki-framework/field-typography/src/Field/Typography.php:362
+#: packages/kirki-framework/field-typography/src/Field/Typography.php:382
+msgid "None"
+msgstr "Нет"
+
+#: packages/kirki-framework/field-typography/src/Field/Typography.php:359
+msgid "Text Transform"
+msgstr "Преобразование"
+
+#: packages/kirki-framework/field-typography/src/Field/Typography.php:347
+msgid "Text Align"
+msgstr "Выравнивание текста"
+
+#: packages/kirki-framework/field-typography/src/Field/Typography.php:354
+msgid "Justify"
+msgstr "Выравнивать"
+
+#: packages/kirki-framework/field-dimensions/src/Dimensions.php:69
+#: packages/kirki-framework/field-typography/src/Field/Typography.php:352
+msgid "Center"
+msgstr "По центру"
+
+#. translators: %s represents the number of rows we're limiting the repeater to
+#. allow.
+#: packages/kirki-framework/control-repeater/src/Control/Repeater.php:275
+msgid "Limit: %s rows"
+msgstr "Ограничение: %s строк"
+
+#: packages/kirki-framework/control-dimension/src/Control/Dimension.php:67
+#: packages/kirki-framework/field-dimensions/src/Dimensions.php:74
+msgid "Invalid Value"
+msgstr "Неверное значение"
+
+#: packages/kirki-framework/module-webfonts/src/Webfonts/Fonts.php:184
+msgid "Ultra-Bold 900 Italic"
+msgstr "Ultra-Bold 900 Italic"
+
+#: packages/kirki-framework/module-webfonts/src/Webfonts/Fonts.php:182
+#: packages/kirki-framework/module-webfonts/src/Webfonts/Fonts.php:183
+msgid "Ultra-Bold 900"
+msgstr "Ultra-Bold 900"
+
+#: packages/kirki-framework/module-webfonts/src/Webfonts/Fonts.php:181
+msgid "Extra-Bold 800 Italic"
+msgstr "Extra-Bold 800 Italic"
+
+#: packages/kirki-framework/module-webfonts/src/Webfonts/Fonts.php:179
+#: packages/kirki-framework/module-webfonts/src/Webfonts/Fonts.php:180
+msgid "Extra-Bold 800"
+msgstr "Extra-Bold 800"
+
+#: packages/kirki-framework/module-webfonts/src/Webfonts/Fonts.php:178
+msgid "Bold 700 Italic"
+msgstr "Bold 700 Italic"
+
+#: packages/kirki-framework/module-webfonts/src/Webfonts/Fonts.php:177
+msgid "Bold 700"
+msgstr "Bold 700"
+
+#: packages/kirki-framework/module-webfonts/src/Webfonts/Fonts.php:176
+msgid "Semi-Bold 600 Italic"
+msgstr "Semi-Bold 600 Italic"
+
+#: packages/kirki-framework/module-webfonts/src/Webfonts/Fonts.php:174
+#: packages/kirki-framework/module-webfonts/src/Webfonts/Fonts.php:175
+msgid "Semi-Bold 600"
+msgstr "Semi-Bold 600"
+
+#: packages/kirki-framework/module-webfonts/src/Webfonts/Fonts.php:173
+msgid "Medium 500 Italic"
+msgstr "Средний 500 курсив"
+
+#: packages/kirki-framework/module-webfonts/src/Webfonts/Fonts.php:172
+msgid "Medium 500"
+msgstr "Средний 500"
+
+#: packages/kirki-framework/module-webfonts/src/Webfonts/Fonts.php:171
+msgid "Normal 400 Italic"
+msgstr "Normal 400 Italic"
+
+#: packages/kirki-framework/module-webfonts/src/Webfonts/Fonts.php:169
+#: packages/kirki-framework/module-webfonts/src/Webfonts/Fonts.php:170
+msgid "Normal 400"
+msgstr "Normal 400"
+
+#: packages/kirki-framework/module-webfonts/src/Webfonts/Fonts.php:168
+msgid "Book 300 Italic"
+msgstr "Book 300 Italic"
+
+#: packages/kirki-framework/module-webfonts/src/Webfonts/Fonts.php:167
+msgid "Book 300"
+msgstr "Book 300"
+
+#: packages/kirki-framework/module-webfonts/src/Webfonts/Fonts.php:166
+msgid "Light 200 Italic"
+msgstr "Light 200 Italic"
+
+#: packages/kirki-framework/module-webfonts/src/Webfonts/Fonts.php:165
+msgid "Light 200"
+msgstr "Light 200"
+
+#: packages/kirki-framework/module-webfonts/src/Webfonts/Fonts.php:164
+msgid "Ultra-Light 100 Italic"
+msgstr "Ultra-Light 100 Italic"
+
+#: packages/kirki-framework/module-webfonts/src/Webfonts/Fonts.php:162
+#: packages/kirki-framework/module-webfonts/src/Webfonts/Fonts.php:163
+msgid "Ultra-Light 100"
+msgstr "Ultra-Light 100"
+
+#: packages/kirki-framework/field-dimensions/src/Dimensions.php:71
+msgid "Spacing"
+msgstr "Отступы"
+
+#: packages/kirki-framework/field-dimensions/src/Dimensions.php:73
+msgid "Height"
+msgstr "Высота"
+
+#: packages/kirki-framework/field-dimensions/src/Dimensions.php:70
+msgid "Size"
+msgstr "Размер"
+
+#: packages/kirki-framework/field-dimensions/src/Dimensions.php:62
+msgid "Font Style"
+msgstr "Стиль шрифта"
+
+#: packages/kirki-framework/control-repeater/src/Control/Repeater.php:443
+#: packages/kirki-framework/control-repeater/src/Control/Repeater.php:448
+msgid "No Image Selected"
+msgstr "Нет выбранных изображений"
+
+#: packages/kirki-framework/control-image/src/Control/Image.php:85
+#: packages/kirki-framework/control-image/src/Field/Image.php:114
+#: packages/kirki-framework/control-repeater/src/Control/Repeater.php:453
+#: packages/kirki-framework/control-repeater/src/Control/Repeater.php:485
+#: packages/kirki-framework/control-repeater/src/Control/Repeater.php:510
+msgid "Remove"
+msgstr "Удалить"
+
+#: packages/kirki-framework/control-repeater/src/Control/Repeater.php:454
+#: packages/kirki-framework/control-repeater/src/Control/Repeater.php:456
+msgid "Change Image"
+msgstr "Изменить изображение"
+
+#: packages/kirki-framework/control-repeater/src/Control/Repeater.php:454
+#: packages/kirki-framework/control-repeater/src/Control/Repeater.php:458
+msgid "Add Image"
+msgstr "Добавить изображение"
+
+#: packages/kirki-framework/field-dimensions/src/Dimensions.php:68
+#: packages/kirki-framework/field-typography/src/Field/Typography.php:353
+msgid "Right"
+msgstr "Справа"
+
+#: packages/kirki-framework/field-dimensions/src/Dimensions.php:67
+#: packages/kirki-framework/field-typography/src/Field/Typography.php:351
+msgid "Left"
+msgstr "Слева"
+
+#: packages/kirki-framework/field-dimensions/src/Dimensions.php:66
+msgid "Bottom"
+msgstr "Внизу"
+
+#: packages/kirki-framework/field-dimensions/src/Dimensions.php:65
+msgid "Top"
+msgstr "Сверху"
+
+#: packages/kirki-framework/field-dimensions/src/Dimensions.php:63
+#: packages/kirki-framework/field-typography/src/Field/Typography.php:407
+msgid "Letter Spacing"
+msgstr "Межбуквенное расстояние"
+
+#: packages/kirki-framework/field-dimensions/src/Dimensions.php:61
+#: packages/kirki-framework/field-typography/src/Field/Typography.php:402
+msgid "Line Height"
+msgstr "Высота строки"
+
+#: packages/kirki-framework/field-dimensions/src/Dimensions.php:59
+#: packages/kirki-framework/field-typography/src/Field/Typography.php:323
+msgid "Font Size"
+msgstr "Размер шрифта"
+
+#. Plugin URI of the plugin
+msgid "https://kirki.org"
+msgstr "https://kirki.org"
+
+#: packages/kirki-framework/field-dimensions/src/Dimensions.php:60
+msgid "Font Weight"
+msgstr "Жирность шрифта"
+
+#: packages/kirki-framework/field-typography/src/Field/Typography.php:274
+msgid "Font Family"
+msgstr "Семейство шрифтов"
+
+#: packages/kirki-framework/field-background/src/Background.php:152
+msgid "Background Position"
+msgstr "Позиция фона"
+
+#: packages/kirki-framework/field-background/src/Background.php:161
+#: packages/kirki-framework/field-dimensions/src/Dimensions.php:58
+msgid "Center Bottom"
+msgstr "Центр внизу"
+
+#: packages/kirki-framework/field-background/src/Background.php:160
+#: packages/kirki-framework/field-dimensions/src/Dimensions.php:57
+msgid "Center Center"
+msgstr "Центр в центре"
+
+#: packages/kirki-framework/field-background/src/Background.php:159
+#: packages/kirki-framework/field-dimensions/src/Dimensions.php:56
+msgid "Center Top"
+msgstr "Центр вверху"
+
+#: packages/kirki-framework/field-background/src/Background.php:164
+#: packages/kirki-framework/field-dimensions/src/Dimensions.php:55
+msgid "Right Bottom"
+msgstr "Справа внизу"
+
+#: packages/kirki-framework/field-background/src/Background.php:163
+#: packages/kirki-framework/field-dimensions/src/Dimensions.php:54
+msgid "Right Center"
+msgstr "Справа в центре"
+
+#: packages/kirki-framework/field-background/src/Background.php:162
+#: packages/kirki-framework/field-dimensions/src/Dimensions.php:53
+msgid "Right Top"
+msgstr "Справа сверху"
+
+#: packages/kirki-framework/field-background/src/Background.php:158
+#: packages/kirki-framework/field-dimensions/src/Dimensions.php:52
+msgid "Left Bottom"
+msgstr "Слева внизу"
+
+#: packages/kirki-framework/field-background/src/Background.php:157
+#: packages/kirki-framework/field-dimensions/src/Dimensions.php:51
+msgid "Left Center"
+msgstr "Слева в центре"
+
+#: packages/kirki-framework/field-background/src/Background.php:156
+#: packages/kirki-framework/field-dimensions/src/Dimensions.php:50
+msgid "Left Top"
+msgstr "Слева сверху"
+
+#: packages/kirki-framework/field-background/src/Background.php:222
+msgid "Background Attachment"
+msgstr "Фоновое изображение"
+
+#: packages/kirki-framework/field-background/src/Background.php:227
+msgid "Scroll"
+msgstr "Прокрутка"
+
+#: packages/kirki-framework/field-background/src/Background.php:228
+msgid "Fixed"
+msgstr "Фиксированная"
+
+#: packages/kirki-framework/field-background/src/Background.php:190
+msgid "Background Size"
+msgstr "Размер фона"
+
+#: packages/kirki-framework/field-background/src/Background.php:195
+msgid "Contain"
+msgstr "Содержит"
+
+#: packages/kirki-framework/field-background/src/Background.php:194
+msgid "Cover"
+msgstr "Покрывает"
+
+#: packages/kirki-framework/field-background/src/Background.php:119
+msgid "Background Repeat"
+msgstr "Повторение фона"
+
+#: packages/kirki-framework/field-background/src/Background.php:126
+msgid "Repeat Vertically"
+msgstr "Повторять Вертикально"
+
+#: packages/kirki-framework/field-background/src/Background.php:125
+msgid "Repeat Horizontally"
+msgstr "Повторять горизонтально"
+
+#: packages/kirki-framework/field-background/src/Background.php:124
+msgid "Repeat All"
+msgstr "Повторять везде"
+
+#: packages/kirki-framework/field-background/src/Background.php:123
+msgid "No Repeat"
+msgstr "Не Повторять"
+
+#: packages/kirki-framework/field-background/src/Background.php:103
+msgid "Background Image"
+msgstr "Фоновое изображение"
+
+#: packages/kirki-framework/field-background/src/Background.php:84
+msgid "Background Color"
+msgstr "Цвет фона"
